@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font: arial;
+	width: 1348px;
+	height: 778px;
+	background-image: url(../img/fundo.jpg);
+}
+
+p{
+	font-size: 14px;
+	color: #000;
+}
+
+.nome h2{
+	color: #FFF;
+	width: 20%;
+	margin-top: 1%;
+	margin-left: 40%;
+	font-size: 25px;
+
+}
+
+.info{
+	margin-top: 3%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.flex {
+	display: flex;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.cadastro{
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 10px;
+	color: #000;
+	margin-left: 6%;
+	margin-right: 6%;
+	padding: 30px;
+	height: 63.5%;
+	width: 12%;
+	word-wrap: break-word;
+}

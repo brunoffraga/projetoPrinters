@@ -1,0 +1,98 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+   font: arial;
+   width: 1348px;
+   height: 778px;
+   background-image: url(../img/fundo.jpg);
+}
+
+p{
+   font-size: 14px;
+   color: #000;
+}
+
+.logo{
+	margin-left: 40%;	
+	color: #fff;
+}
+
+.logo img{
+	width: 20%;
+	margin-top: 5%;
+	margin-left: 4%;
+}
+
+.logo h2{
+   font-size: 25px;
+
+}
+
+.info{
+	margin-top: 3%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.flex {
+	display: flex;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.sobre{
+	background-color: #fff;
+	border-radius: 10px;
+   padding: 10px;
+   color: #000;
+   margin-left: 6%;
+   margin-right: 6%;
+   height: 200px;
+   padding: 30px;
+   width: 10em;
+   word-wrap: break-word;
+}
+
+.block{
+	display: block;
+}
+
+.cadastro{
+	background-color: #fff;
+	border-radius: 10px;
+   padding: 10px;
+   color: #000;
+   margin-left: 6%;
+   margin-right: 6%;
+   height: 110px;
+   padding: 30px;
+   width: 10em;
+   word-wrap: break-word;
+}
+
+.criarc{
+	background-color: #fff;
+	border-radius: 10px;
+   padding: 10px;
+   color: #000;
+   margin-top: 5%;
+   margin-left: 6%;
+   margin-right: 6%;
+   height: 20px;
+   padding: 30px;
+   width: 10em;
+   word-wrap: break-word;
+   text-align: center;
+}
+
+.criarc p{
+
+ }
+
+.criarc a{
+   color: #000;
+   text-decoration:none;
+}
